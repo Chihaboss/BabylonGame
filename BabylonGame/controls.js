@@ -18,7 +18,7 @@ function buildControls() {
 
         }
 
-        if (event.keyCode.code === A_KEY) {
+        if (event.keyCode === A_KEY) {
 
             aPressed = true;
         }
